@@ -16,7 +16,7 @@ hurdle = Hurdle()
 screen.listen()
 screen.onkey(hurdle.left, "Left")
 screen.onkey(hurdle.right, "Right")
-screen.onkey(hurdle.restart_game, "5")
+
 
 hurdle.create_hurdle()
 

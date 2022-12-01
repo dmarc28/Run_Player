@@ -70,8 +70,7 @@ class Hurdle(Player):
         if self.head_player.ycor() > 225.00:
             return True
 
-    def restart_game(self):
-        return True
+
 
 
 
